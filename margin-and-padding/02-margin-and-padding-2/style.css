@@ -36,6 +36,6 @@ button {
   border: 1px solid #eee;
   display: block;
   margin-left: auto;
-  margin-right: auto;
+  margin-right: auto; /*this is how you center block level elements?*/
   padding: 8px 24px;
 }
